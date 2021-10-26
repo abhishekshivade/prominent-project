@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-logo img{
+    height: 70px;
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+.nav-link{
+    margin: 0.5rem;
+}
+
+#nav-txt{
+    font-size: 20px;
+    color: rgb(44 146 231 / 85%);
+    border: 0.1px solid #f4fcff;
+    border-radius: 45px;
+ }
+ 
+ #nav-txt:hover{
+    background-color: rgb(44 146 231 / 85%);
+    color: white;
+    border: 0.1px solid;
+    border-radius: 45px;
+ }
+ 
+ .navTxt{
+    font-weight: bolder;
+ }
+
+ .nav2{
+    top: 45%;
+    position: absolute;
+    right: 10%;
+ }
+
+ .cardBackground{
+    height: 250px;
+    width: 100%;
+    background-image: url(../files/cu.jpg);
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+ }
+
+ .card1{
+    height: 50px;
+    width: 100%;
+    background-color: #d0d1d4;
+ }
+
+.card2{
+    display: flex;
+    flex-direction: row;
+    background-color: #d0d1d4;
+}
+
+ .enquiryCard{
+    background-color: #d0d1d4;
+    width: 50%;
+    margin-top: 5%;
+ }
+
+ .form-group{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    width: 50%;
+ }
+
+ .form-group input{
+    border-radius: 10px;
+    border: 1px solid black;
+ }
+
+ .form-group textarea{
+    border-radius: 10px;
+    border: 1px solid black;
+ }
+
+.form-group button{
+    margin: 10px;
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+
+.form-group button:hover{
+    background-color: black;
+    color: white;
+}
+
+.city{
+    margin-left: 20%;
+    width: 100%;
+}
+
+.add{
+    margin-left: 50px;
+}
+
+.social{
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    position: absolute;
+    right: 80px;
+}
+
+.social img{
+    margin: 5px;
+    background: transparent;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.card4{
+    height: 20px;
+    background-color: #d0d1d4
+}
+

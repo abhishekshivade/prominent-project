@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-logo img{
+    height: 70px;
+}
+
+.nav-item{
+    font-weight: bold;
+    margin: .5px;
+    padding: .5px;
+}
+
+.nav-link{
+    margin: 0.5rem;
+}
+
+#nav-txt{
+    font-size: 20px;
+    color: rgb(44 146 231 / 85%);
+    border: 0.1px solid #f4fcff;
+    border-radius: 45px;
+}
+ 
+#nav-txt:hover{
+    background-color: rgb(44 146 231 / 85%);
+    color: white;
+    border: 0.1px solid;
+    border-radius: 45px;
+}
+ 
+.navTxt{
+    font-weight: bolder;
+}
+
+.card1{
+    color: white;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(../files/l1.jpg);
+    background-size: 35%;
+}
+
+.nav1{
+    position: absolute;
+    right: 10px;
+}
+
+.card3 h1{
+    color: rgb(44 146 231 / 85%);
+    position: absolute;
+    left: 7%;
+    top: 70%;
+}

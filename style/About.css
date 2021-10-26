@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-logo img{
+    height: 70px;
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+.nav-link{
+    margin: 0.5rem;
+}
+
+#nav-txt{
+    font-size: 20px;
+    color: rgb(44 146 231 / 85%);
+    border: 0.1px solid #f4fcff;
+    border-radius: 45px;
+}
+ 
+#nav-txt:hover{
+    background-color: rgb(44 146 231 / 85%);
+    color: white;
+    border: 0.1px solid;
+    border-radius: 45px;
+}
+ 
+.navTxt{
+    font-weight: bolder;
+}
+
+.card1 img{
+    height: 300px;
+    width: 100%;
+}
+
+.card2{
+    height: 111.5px;
+}
+
+.cardV{
+    background-color: #c77534;
+    color: white;
+}
+
+.cardM{
+    background-color: rgb(195 91 49);
+    color: white;
+}
+
+.cardJ{
+    background-color: #e6ac31;
+    color: white;
+}

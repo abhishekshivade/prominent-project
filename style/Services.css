@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mNav{
+    position: fixed;
+    width: 100%;
+}
+
+.navbar-logo img{
+    height: 70px;
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+.nav-link{
+    margin: 0.5rem;
+}
+
+#nav-txt{
+    font-size: 20px;
+    color: rgb(44 146 231 / 85%);
+    border: 0.1px solid #f4fcff;
+    border-radius: 45px;
+ }
+ 
+ #nav-txt:hover{
+     background-color: rgb(44 146 231 / 85%);
+     color: white;
+     border: 0.1px solid;
+     border-radius: 45px;
+ }
+ 
+ .navTxt{
+     font-weight: bolder;
+ }
+
+.card1 img{
+    height: 460px;
+    width: 100%;
+}
+
+.card1 h1{
+    color: black;
+}
